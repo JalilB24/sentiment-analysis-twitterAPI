@@ -126,7 +126,7 @@ tweets = preproccess_dataframe(tweets)
 
 
 def predict_sentiment(tweet):
-    polarity = TextBlob(preprocess_tweets(tweet, custom_stopwords)).sentiment[0]
+    polarity = TextBlob(preprocess_tweets(tweet, custom_stopwords=["RT"])).sentiment[0]
     if polarity == 0.0:
         return (0, polarity, "neutral")
     elif polarity < 0.0:
