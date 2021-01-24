@@ -44,9 +44,10 @@ You also have to copy-paste your Twitter Developer info in this file.
 Unfortunately, the deployment on Heroku doesn't work (I think because of the *ntlk* large memory).
 So we can just use the deployment on the server of the Flask Application.
 
-![](images/1.png)
-![](images/2.png)
+![img.png](img.png)
+![img_1.png](img_1.png)
 
 ### Example of sentiment analysis on a topic typed by the user
-![](images/3.png)
-![](images/4.png)
+
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
