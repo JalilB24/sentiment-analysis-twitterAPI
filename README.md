@@ -49,5 +49,5 @@ So we can just use the deployment on the server of the Flask Application.
 
 ### Example of sentiment analysis on a topic typed by the user
 
-![p3](https://raw.githubusercontent.com/JalilB24/sentiment-analysis-twitterAPI/main/3.png)
+![p](https://raw.githubusercontent.com/JalilB24/sentiment-analysis-twitterAPI/main/3.png)
 ![p4](https://raw.githubusercontent.com/JalilB24/sentiment-analysis-twitterAPI/main/4.png)
