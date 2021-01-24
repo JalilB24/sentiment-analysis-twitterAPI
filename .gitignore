@@ -5,3 +5,4 @@ venv
 .idea
 .ipynb_checkpoints
 images
+*.png
