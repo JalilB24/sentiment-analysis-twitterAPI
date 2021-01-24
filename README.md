@@ -44,10 +44,10 @@ You also have to copy-paste your Twitter Developer info in this file.
 Unfortunately, the deployment on Heroku doesn't work (I think because of the *ntlk* large memory).
 So we can just use the deployment on the server of the Flask Application.
 
-
-![img_1.png](https://github.com/JalilB24/sentiment-analysis-twitterAPI/blob/main/img_1.png)
+![](https://raw.githubusercontent.com/JalilB24/sentiment-analysis-twitterAPI/main/1.png)
+![](https://raw.githubusercontent.com/JalilB24/sentiment-analysis-twitterAPI/main/2.png)
 
 ### Example of sentiment analysis on a topic typed by the user
 
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![](https://raw.githubusercontent.com/JalilB24/sentiment-analysis-twitterAPI/main/3.png)
+![](https://raw.githubusercontent.com/JalilB24/sentiment-analysis-twitterAPI/main/4.png)
